@@ -3,5 +3,5 @@
 
 ada 2 Folder
 
-1) StandAlone
-2) File project berbentuk .zip
+1) standalone
+2) fileproject berbentuk .zip
